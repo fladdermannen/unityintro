@@ -12,10 +12,10 @@ public class BouncingSquare : MonoBehaviour {
     float maxSizeY = 3;
     float minSizeX = 0.1f;
     float minSizeY = 0.1f;
-    float maxPositionX = 5;
+    float maxPositionX = 7;
     float minPositionX = -7;
-    float maxPositionY = 5;
-    float minPositionY = -7;
+    float maxPositionY = 4;
+    float minPositionY = -4;
 
     float directionX = 1;
     float directionY = 1;
